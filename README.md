@@ -1,5 +1,3 @@
-# ここから
-## 無題
 
 - 自己紹介
   [X](https://twitter.com/amdi_game)
